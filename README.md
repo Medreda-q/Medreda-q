@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at EST Tétouan, Morocco. Passionate about SOC analysis, penetration testing, and building real-world security labs.
 
@@ -32,17 +32,17 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-**🔵 Open-Source SOC Deployment** *(Mar–May 2026)*  
+**  Open-Source SOC Deployment** *(Mar–May 2026)*  
 Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attacks and validated detection via dashboards and alerts.
 
-**🔵 Snort IDS/IPS** *(Apr 2026)*  
+**  Snort IDS/IPS** *(Apr 2026)*  
 3 progressive labs covering IDS/IPS deployment, custom rules, and real-time blocking.
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -52,7 +52,7 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🏅 Getting Started with Cisco Packet Tracer — *Cisco, May 2026*
 - 🏅 NDG Linux Unhatched — *Cisco, May 2026*
@@ -60,7 +60,7 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
