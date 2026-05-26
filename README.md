@@ -33,16 +33,6 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
 
 ---
 
-##  Projects
-
-- **Open-Source SOC Deployment** *(Mar–May 2026)*  
-Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attacks and validated detection via dashboards and alerts.
-
-- **Snort IDS/IPS** *(Apr 2026)*  
-3 progressive labs covering IDS/IPS deployment, custom rules, and real-time blocking.
-
----
-
 ## 🛠️ Tools and Languages
 <p>
   <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
