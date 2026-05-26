@@ -42,28 +42,23 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 
 ---
 
-##  Tools & Languages
+## 🛠️ Tools and Languages
 
 <p>
-  <a href="https://github.com/Medreda-q">
-    <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Medreda-q">
-    <img align="left" alt="Kali Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kali-linux/kali-linux.png" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Medreda-q">
-    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Medreda-q">
-    <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Medreda-q">
-    <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Medreda-q">
-    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" style="max-width: 100%;">
-  </a>
+  <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+  &nbsp;
+  <img alt="Kali Linux" width="26px" src="https://img.shields.io/badge/-Kali-557C94?style=flat&logo=kali-linux&logoColor=white">
+  &nbsp;
+  <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  &nbsp;
+  <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
+  &nbsp;
+  <img alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">
+  &nbsp;
+  <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
 </p>
+
+<br/>
 
 ---
 
