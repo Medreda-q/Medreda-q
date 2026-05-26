@@ -26,9 +26,9 @@
 
 I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at EST Tétouan, Morocco. Passionate about SOC analysis, penetration testing, and building real-world security labs.
 
-🔍 Currently looking for a **cybersecurity internship**  
-🛡️ Focused on: SOC, Network Security, Penetration Testing  
-🌐 Languages: Arabic · French · English  
+ - Focused on: SOC, Network Security, Penetration Testing
+ - Currently looking for a **cybersecurity internship**    
+ - Languages: Arabic · French · English  
 
 ---
 
