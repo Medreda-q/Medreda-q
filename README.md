@@ -43,7 +43,6 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 ---
 
 ## 🛠️ Tools and Languages
-
 <p>
   <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
   &nbsp;
@@ -53,9 +52,7 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
   <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
   &nbsp;
 </p>
-
 <br/>
-
 ---
 
 ##  Certifications
