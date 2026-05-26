@@ -1,4 +1,3 @@
-<div style="overflow-x: auto;">
 <div align="center">
 
 ```text
