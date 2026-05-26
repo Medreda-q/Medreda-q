@@ -1,13 +1,15 @@
 <div style="overflow-x: auto;">
+<div align="center">
 
-```
+```text
 ██████╗ ███████╗██████╗  █████╗ 
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗
 ██████╔╝█████╗  ██║  ██║███████║
 ██╔══██╗██╔══╝  ██║  ██║██╔══██║
 ██║  ██║███████╗██████╔╝██║  ██║
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
-```                                                                                       
+```
+                                                                                   
                                                                                                    
 ### Mohamed Reda Qiyaoui
 **Cybersecurity Student · SOC Analyst in Training · Penetration Tester**  
