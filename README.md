@@ -48,8 +48,6 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-`Wazuh` `Suricata` `pfSense` `Snort` `Nmap` `Metasploit` `Hydra` `SQLMap` `Mimikatz`
-
 ---
 
 ##  Certifications
@@ -57,6 +55,7 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 - 🏅 Getting Started with Cisco Packet Tracer — *Cisco, May 2026*
 - 🏅 NDG Linux Unhatched — *Cisco, May 2026*
 - 🏅 Introduction to Cybersecurity — *Cisco*
+- ...
 
 ---
 
