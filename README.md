@@ -63,7 +63,7 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 ## 📊 GitHub Stats
 <div align="center">
 
-![Medreda-q's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Medreda-q&theme=tokyonight&background=0D1117&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=ffffff&sideLabels=f59e0b&dates=f59e0b)
+![Medreda-q's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Medreda-q&theme=tokyonight&background=0D1117&ring=F4CD7C&fire=F4CD7C&currStreakNum=F4CD7C&sideNums=ffffff&sideLabels=F4CD7C&dates=F4CD7C)
 
 </div>
 </div>
