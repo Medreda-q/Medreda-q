@@ -62,6 +62,6 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medreda-q&show_icons=true&theme=dark&hide_border=true)
+[![Mohamed Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medreda-q&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Medreda-q)
 
 </div>
