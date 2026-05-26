@@ -1,13 +1,5 @@
-<div align="center">
+<img width="1003" height="171" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/60d94ded-c48b-4f0c-bd9b-c0b53cef2ee0" />
 
-```
-                                        ██████╗ ███████╗██████╗  █████╗     
-                                        ██╔══██╗██╔════╝██╔══██╗██╔══██╗    
-                                        ██████╔╝█████╗  ██║  ██║███████║    
-                                        ██╔══██╗██╔══╝  ██║  ██║██╔══██║    
-                                        ██║  ██║███████╗██████╔╝██║  ██║    
-                                    ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
-```
 
 ### Mohamed Reda Qiyaoui
 **Cybersecurity Student · SOC Analyst in Training · Penetration Tester**  
