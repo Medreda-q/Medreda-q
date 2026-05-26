@@ -15,7 +15,7 @@
 📍 Tétouan, Morocco · EST Tétouan (DUT 2025–2027)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-blue?style=flat&logo=vercel)](https://mohamedreda.is-a.dev)
-[![CV](https://img.shields.io/badge/CV-View-blue?style=for-the-badge&logo=google-docs)](https://mohamedreda.is-a.dev/CV)
+[![CV](https://img.shields.io/badge/CV-mohamedreda.is--a.dev%2FCV-blue?style=flat&logo=google-docs)](https://mohamedreda.is-a.dev/CV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Reda-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-reda-qiyaoui)
 [![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:mohamedreda.labwork@gmail.com)
 
