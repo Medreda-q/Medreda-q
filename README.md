@@ -44,7 +44,27 @@ Deployed Wazuh SIEM + Suricata NIDS + pfSense Firewall. Simulated 10+ real attac
 
 ##  Tools & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,c,bash,mysql)](https://skillicons.dev)
+<p>
+  <a href="https://github.com/Medreda-q">
+    <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/Medreda-q">
+    <img align="left" alt="Kali Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kali-linux/kali-linux.png" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/Medreda-q">
+    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/Medreda-q">
+    <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/Medreda-q">
+    <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/Medreda-q">
+    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" style="max-width: 100%;">
+  </a>
+</p>
+
 ---
 
 ##  Certifications
