@@ -8,7 +8,7 @@
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
 </pre>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+%26+Information+Systems+Audit;SOC+Analyst+in+Training;Penetration+Testing+%7C+Blue+%26+Red+Team;Network+Security+%7C+Infrastructure+Defense;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+%26+Information+Systems+Audit;SOC+Analyst+in+Training;Penetration+Testing+%7C+Blue+%26+Red+Team;Network+Security+%7C+Infrastructure+Defense;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-blue?style=flat&logo=vercel)](https://mohamedreda.is-a.dev)
 [![CV](https://img.shields.io/badge/CV-mohamedreda.is--a.dev%2FCV-blue?style=flat&logo=google-docs)](https://mohamedreda.is-a.dev/CV)
@@ -74,6 +74,6 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Medreda-q/Medreda-q/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=835&lines=Thanks+for+visiting+my+GitHub;Let%27s+connect+on+LinkedIn!;Always+open+to+collaborate+and+learn;Let%27s+build+something+worth+shipping!)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
