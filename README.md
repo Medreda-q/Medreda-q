@@ -1,109 +1,79 @@
 <div align="center">
+<pre>
+██████╗ ███████╗██████╗  █████╗ 
+██╔══██╗██╔════╝██╔══██╗██╔══██╗
+██████╔╝█████╗  ██║  ██║███████║
+██╔══██╗██╔══╝  ██║  ██║██╔══██║
+██║  ██║███████╗██████╔╝██║  ██║
+╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
+</pre>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+%26+Information+Systems+Audit;SOC+Analyst+in+Training;Penetration+Testing+%7C+Blue+%26+Red+Team;Network+Security+%7C+Infrastructure+Defense;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
 
-<!-- Offline Local Banner (100% Reliable & Fast) -->
-<img src="./assets/banner.svg" alt="Mohamed Reda Banner" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-blue?style=flat&logo=vercel)](https://mohamedreda.is-a.dev)
+[![CV](https://img.shields.io/badge/CV-mohamedreda.is--a.dev%2FCV-blue?style=flat&logo=google-docs)](https://mohamedreda.is-a.dev/CV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Reda-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mohamed-reda-qiyaoui)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)](mailto:mohamedreda.labwork@gmail.com)
 
-<br/>
+</div>
 
-<!-- Dynamic Role Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=SOC+Analyst+in+Training;Network+Security+%26+Defense;Building+Security+Labs;Actively+Seeking+Internship)](https://git.io/typing-svg)
+---
 
-<p align="center">
-  <a href="https://mohamedreda.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-0969da?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://mohamedreda.is-a.dev/CV">
-    <img src="https://img.shields.io/badge/CV-View_Resume-238636?style=flat-square&logo=googledocs&logoColor=white" alt="CV"/>
-  </a>
-  <a href="https://linkedin.com/in/mohamed-reda-qiyaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Reda-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://app.hackthebox.com/profile/Medreda-q">
-    <img src="https://img.shields.io/badge/HackTheBox-Medreda--q-9fef00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
-  </a>
-  <a href="mailto:mohamedreda.labwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+## About Me
+
+I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at EST Tétouan, Morocco. Passionate about SOC analysis, penetration testing, and building real-world security labs.
+
+ - Focused on: SOC, Network Security, Penetration Testing
+ - Currently looking for a **cybersecurity internship**    
+ - Languages: Arabic · French · English  
+
+---
+
+## 🛠️ Tools and Languages
+
+<p>
+  <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+  &nbsp;
+  &nbsp;
+  <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  &nbsp;
+  <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
+  &nbsp;
 </p>
 
-</div>
+---
+
+##  Certifications
+
+- 🏅 Getting Started with Cisco Packet Tracer — *Cisco, May 2026*
+- 🏅 NDG Linux Unhatched — *Cisco, May 2026*
+- 🏅 Introduction to Cybersecurity — *Cisco*
+- ...
 
 ---
 
-### 🛡️ About Me
-
-```yaml
-profile:
-  name: "Mohamed Reda Qiyaoui"
-  title: "Cybersecurity & Information Systems Audit Student"
-  institution: "EST Tétouan, Morocco (Cohort 2025–2027)"
-  status: "Actively seeking a Cybersecurity Internship"
-  focus:
-    - "Defensive Security & SOC Operations (SIEM, Log Analysis)"
-    - "Network Security, Traffic Forensics & Infrastructure Defense"
-    - "Offensive Basics, CTFs & Penetration Testing"
-    - "Virtual Lab Engineering (Active Directory, Linux/Windows Environments)"
-  languages:
-    - "Arabic (Native)"
-    - "French (Fluent)"
-    - "English (Professional)"
-```
-
-- 🎓 **Education:** 1st year DUT student in **Cybersecurity and Information Systems Audit** at École Supérieure de Technologie (EST) de Tétouan.
-- 🎯 **Primary Focus:** Threat detection, SIEM log monitoring, packet forensics with Wireshark, and defensive infrastructure hardening.
-- 🧪 **Hands-on Practice:** Actively building home lab setups (VirtualBox, VMware), solving HackTheBox challenges, and automating workflows with Python and Bash.
-- 💼 **Career Objective:** Eager to contribute to a Security Operations Center (SOC) or security auditing team through an intensive internship.
-
----
-
-### 🧰 Technical Arsenal
+##  GitHub Stats
 
 <div align="center">
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Security & SOC Operations** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-002B36?style=flat-square&logo=nmap&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit&logoColor=white) |
-| **Operating Systems & Virtualization** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
-| **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Networking & Defense Concepts** | ![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP%20%26%20Subnetting-00599C?style=flat-square) ![Firewalls](https://img.shields.io/badge/Defense-Firewalls%20%26%20ACLs-E53935?style=flat-square) ![Log Analysis](https://img.shields.io/badge/SOC-Log%20Monitoring%20%26%20SIEM-7B1FA2?style=flat-square) ![OWASP](https://img.shields.io/badge/Security-OWASP%20Top%2010-00897B?style=flat-square) |
+![Medreda-q's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Medreda-q&theme=tokyonight&background=0D1117&ring=F4CD7C&fire=F4CD7C&currStreakNum=73D0FF&currStreakLabel=73D0FF&sideNums=F4CD7C&sideLabels=F4CD7C&dates=C7C8C2)
+
+[![Mohamed Reda's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Medreda-q&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/Medreda-q)
 
 </div>
 
 ---
 
-### 📜 Certifications & Accreditations
+## 🐍 Contribution Snake
 
 <div align="center">
 
-| Badge | Certification Name | Issuer | Year |
-| :---: | :--- | :--- | :---: |
-| 🛡️ | **Getting Started with Cisco Packet Tracer** | Cisco Networking Academy | 2026 |
-| 🐧 | **NDG Linux Unhatched** | Cisco Networking Academy | 2026 |
-| 🔒 | **Introduction to Cybersecurity** | Cisco Networking Academy | 2026 |
-| 🎯 | **SOC Analyst & Penetration Testing Paths** | TryHackMe / HackTheBox | *In Progress* |
-
-</div>
-
----
-
-### 📊 Activity & Contributions
-
-<div align="center">
-
-<!-- Reliable DemoLab Streak Stats with Dark Theme -->
-<img src="https://streak-stats.demolab.com?user=Medreda-q&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=73D0FF&currStreakLabel=73D0FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&border=30363D" alt="Medreda-q's GitHub Streak" />
-
-<br/><br/>
-
-<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Medreda-q/Medreda-q/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Medreda-q/Medreda-q/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Medreda-q/Medreda-q/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=Security+is+not+a+product%2C+it%27s+a+continuous+process.;Always+open+to+collaborate%2C+learn%2C+and+solve+challenges.;Let%27s+connect+and+build+a+safer+digital+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=835&lines=Thanks+for+visiting+my+GitHub;Let%27s+connect+on+LinkedIn!;Always+open+to+collaborate+and+learn;Let%27s+build+something+worth+shipping!)](https://git.io/typing-svg)
 
 </div>
