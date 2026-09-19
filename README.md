@@ -1,26 +1,28 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=210&section=header&text=Mohamed%20Reda%20Qiyaoui&fontSize=38&fontAlignY=38&desc=Cybersecurity%20%26%20Information%20Systems%20Audit%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=62&descSize=16&fontColor=58a6ff" width="100%"/>
+<!-- Offline Local Banner (100% Reliable & Fast) -->
+<img src="./assets/banner.svg" alt="Mohamed Reda Banner" width="100%"/>
+
+<br/>
 
 <!-- Dynamic Role Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Cybersecurity+%26+Information+Systems+Audit;SOC+Analyst+in+Training+%7C+Blue+%26+Red+Team;Network+Security+%26+Traffic+Analysis;Building+Virtual+Security+Labs+%7C+CTF+Player;Open+to+Cybersecurity+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=SOC+Analyst+in+Training;Network+Security+%26+Defense;Building+Security+Labs;Actively+Seeking+Internship)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://mohamedreda.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-0969da?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://mohamedreda.is-a.dev/CV">
-    <img src="https://img.shields.io/badge/CV-View_Resume-238636?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-View_Resume-238636?style=flat-square&logo=googledocs&logoColor=white" alt="CV"/>
   </a>
   <a href="https://linkedin.com/in/mohamed-reda-qiyaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Reda_Qiyaoui-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Reda-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://app.hackthebox.com/profile/Medreda-q">
-    <img src="https://img.shields.io/badge/HackTheBox-Medreda--q-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
+    <img src="https://img.shields.io/badge/HackTheBox-Medreda--q-9fef00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
   </a>
   <a href="mailto:mohamedreda.labwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -84,24 +86,16 @@ profile:
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Activity & Contributions
 
 <div align="center">
 
-![Medreda-q's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Medreda-q&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=73D0FF&currStreakLabel=73D0FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&border=30363D)
+<!-- Reliable DemoLab Streak Stats with Dark Theme -->
+<img src="https://streak-stats.demolab.com?user=Medreda-q&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=73D0FF&currStreakLabel=73D0FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&border=30363D" alt="Medreda-q's GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-[![Mohamed Reda's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Medreda-q&bg_color=0d1117&color=58a6ff&line=58a6ff&point=73d0ff&area=true&hide_border=true)](https://github.com/Medreda-q)
-
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Medreda-q/Medreda-q/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Medreda-q/Medreda-q/output/github-contribution-grid-snake.svg"/>
