@@ -48,16 +48,6 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
 
 ---
 
-### [NetScan — Network Anomaly Detection & Intrusion Prevention System](https://github.com/Medreda-q/NetScan)
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Algorithm](https://img.shields.io/badge/Algorithm-Isolation%20Forest-orange?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-
-</div>
----
-
 ## Certifications
 
 - 🏅 Getting Started with Cisco Packet Tracer — *Cisco, May 2026*
