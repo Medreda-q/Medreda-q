@@ -48,14 +48,6 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
 
 ---
 
-## Featured Project — NetScan
-
-<div align="center">
-
-<a href="https://github.com/Medreda-q/NetScan">
-  <img src="https://raw.githubusercontent.com/Medreda-q/NetScan/main/assets/netscan_logo.svg" alt="NetScan Official Logo" width="110" height="110" />
-</a>
-
 ### [NetScan — Network Anomaly Detection & Intrusion Prevention System](https://github.com/Medreda-q/NetScan)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
