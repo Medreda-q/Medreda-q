@@ -24,13 +24,13 @@
 
 I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at EST Tétouan, Morocco. Passionate about SOC analysis, penetration testing, and building real-world security labs.
 
-- 🎯 Focused on: SOC, Network Security, Penetration Testing
-- 🔍 Currently looking for a **cybersecurity internship**
-- 🌐 Languages: Arabic · French · English
+- Focused on: SOC, Network Security, Penetration Testing
+- Currently looking for a **cybersecurity internship**
+- Languages: Arabic · French · English
 
 ---
 
-## 🛠️ Tools & Languages
+## Tools & Languages
 
 <p>
   <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
@@ -48,7 +48,7 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
 
 ---
 
-## 🚀 Featured Project — NetScan
+## Featured Project — NetScan
 
 <div align="center">
 
@@ -64,25 +64,9 @@ I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at
 [![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 </div>
-
-An advanced **unsupervised machine-learning NIDS/NIPS** that detects zero-day threats, port scans, DDoS floods, and malformed packets — with **no predefined signature rules**.
-
-**Key highlights:**
-- 🔬 **Dual-Layer ML Pipeline**: Per-packet forensics (Layer 1) + time-windowed behavioral clustering (Layer 2) via **Isolation Forest**
-- 📡 **Live Capture & Calibration**: Learns the network baseline dynamically before switching to real-time monitoring
-- 🌐 **Streamlit SOC Dashboard**: Dark-mode web console with live threat counters, scatter plots, and audit logs
-- 🛡️ **Automated Firewall Remediation**: Generates instant `iptables` / `netsh advfirewall` block rules for detected attackers
-- 📄 **Executive Report Export**: One-click standalone HTML & printable PDF incident forensics reports
-
-<div align="center">
-  <a href="https://github.com/Medreda-q/NetScan">
-    <img src="https://raw.githubusercontent.com/Medreda-q/NetScan/main/assets/netscan_dashboard.png" alt="NetScan Real-Time Web Console" width="100%" />
-  </a>
-</div>
-
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - 🏅 Getting Started with Cisco Packet Tracer — *Cisco, May 2026*
 - 🏅 NDG Linux Unhatched — *Cisco, May 2026*
@@ -90,7 +74,7 @@ An advanced **unsupervised machine-learning NIDS/NIPS** that detects zero-day th
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -102,7 +86,7 @@ An advanced **unsupervised machine-learning NIDS/NIPS** that detects zero-day th
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
