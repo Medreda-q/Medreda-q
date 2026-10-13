@@ -1,4 +1,5 @@
 <div align="center">
+
 <pre>
 ██████╗ ███████╗██████╗  █████╗ 
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗
@@ -7,7 +8,7 @@
 ██║  ██║███████╗██████╔╝██║  ██║
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
 </pre>
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+%26+Information+Systems+Audit;SOC+Analyst+in+Training;Penetration+Testing+%7C+Blue+%26+Red+Team;Network+Security+%7C+Infrastructure+Defense;Building+Real-World+Security+Labs)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedreda.is--a.dev-blue?style=flat&logo=vercel)](https://mohamedreda.is-a.dev)
@@ -23,36 +24,73 @@
 
 I'm a 1st year DUT student in **Cybersecurity and Information Systems Audit** at EST Tétouan, Morocco. Passionate about SOC analysis, penetration testing, and building real-world security labs.
 
- - Focused on: SOC, Network Security, Penetration Testing
- - Currently looking for a **cybersecurity internship**    
- - Languages: Arabic · French · English  
+- 🎯 Focused on: SOC, Network Security, Penetration Testing
+- 🔍 Currently looking for a **cybersecurity internship**
+- 🌐 Languages: Arabic · French · English
 
 ---
 
-## 🛠️ Tools and Languages
+## 🛠️ Tools & Languages
 
 <p>
   <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;
   <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
   &nbsp;
   <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
   &nbsp;
+  <img alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">
+  &nbsp;
+  <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
+  &nbsp;
+  <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
 </p>
 
 ---
 
-##  Certifications
+## 🚀 Featured Project — NetScan
+
+<div align="center">
+
+<a href="https://github.com/Medreda-q/NetScan">
+  <img src="https://raw.githubusercontent.com/Medreda-q/NetScan/main/assets/netscan_logo.svg" alt="NetScan Official Logo" width="110" height="110" />
+</a>
+
+### [NetScan — Network Anomaly Detection & Intrusion Prevention System](https://github.com/Medreda-q/NetScan)
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Algorithm](https://img.shields.io/badge/Algorithm-Isolation%20Forest-orange?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+</div>
+
+An advanced **unsupervised machine-learning NIDS/NIPS** that detects zero-day threats, port scans, DDoS floods, and malformed packets — with **no predefined signature rules**.
+
+**Key highlights:**
+- 🔬 **Dual-Layer ML Pipeline**: Per-packet forensics (Layer 1) + time-windowed behavioral clustering (Layer 2) via **Isolation Forest**
+- 📡 **Live Capture & Calibration**: Learns the network baseline dynamically before switching to real-time monitoring
+- 🌐 **Streamlit SOC Dashboard**: Dark-mode web console with live threat counters, scatter plots, and audit logs
+- 🛡️ **Automated Firewall Remediation**: Generates instant `iptables` / `netsh advfirewall` block rules for detected attackers
+- 📄 **Executive Report Export**: One-click standalone HTML & printable PDF incident forensics reports
+
+<div align="center">
+  <a href="https://github.com/Medreda-q/NetScan">
+    <img src="https://raw.githubusercontent.com/Medreda-q/NetScan/main/assets/netscan_dashboard.png" alt="NetScan Real-Time Web Console" width="100%" />
+  </a>
+</div>
+
+---
+
+## 🏅 Certifications
 
 - 🏅 Getting Started with Cisco Packet Tracer — *Cisco, May 2026*
 - 🏅 NDG Linux Unhatched — *Cisco, May 2026*
 - 🏅 Introduction to Cybersecurity — *Cisco*
-- ...
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
