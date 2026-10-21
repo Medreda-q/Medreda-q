@@ -23,18 +23,18 @@
 
 ---
 
-### 🛡️ About Me
+### About Me
 
 I am a DUT student specializing in **Cybersecurity and Information Systems Audit** at École Supérieure de Technologie de Tétouan (EST Tétouan), Morocco.
 
-- 🎯 **Focus Areas**: SOC Analysis, Network Security, Threat Hunting & Penetration Testing
-- 🔍 **Hands-On Experience**: Security labs, IDS/IPS tuning (Snort, Suricata), SIEM monitoring (Wazuh), and network segmentation (pfSense)
-- 💼 **Status**: Actively seeking a **Cybersecurity Internship**
-- 🌐 **Languages**: Arabic (Native) · French (Fluent) · English (Professional)
+- **Focus Areas**: SOC Analysis, Network Security, Threat Hunting & Penetration Testing
+- **Hands-On Experience**: Security labs, IDS/IPS tuning (Snort, Suricata), SIEM monitoring (Wazuh), and network segmentation (pfSense)
+- **Status**: Actively seeking a **Cybersecurity Internship**
+- **Languages**: Arabic (Native) · French (Fluent) · English (Professional)
 
 ---
 
-### 💻 Tools & Technologies
+### Tools & Technologies
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I am a DUT student specializing in **Cybersecurity and Information Systems Audit
 
 ---
 
-### 🚀 Featured Security Projects
+### Featured Security Projects
 
 - **[NetScan](https://github.com/Medreda-q/NetScan)** — *ML-Powered NIDS & Anomaly Detection*  
   An open-source network intrusion detection system using unsupervised machine learning to detect SYN scans and SYN flood attacks in real-time without relying on static signatures.
@@ -70,15 +70,15 @@ I am a DUT student specializing in **Cybersecurity and Information Systems Audit
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
-- 🏅 **Getting Started with Cisco Packet Tracer** — *Cisco (May 2026)*
-- 🏅 **NDG Linux Unhatched** — *Cisco (May 2026)*
-- 🏅 **Introduction to Cybersecurity** — *Cisco*
+- **Getting Started with Cisco Packet Tracer** — *Cisco (May 2026)*
+- **NDG Linux Unhatched** — *Cisco (May 2026)*
+- **Introduction to Cybersecurity** — *Cisco*
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
 
@@ -95,7 +95,7 @@ I am a DUT student specializing in **Cybersecurity and Information Systems Audit
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
 
